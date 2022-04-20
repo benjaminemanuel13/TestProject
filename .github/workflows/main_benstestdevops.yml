@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'benstestdevops'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78D7DABF62C946B4A450BF0ABE9A4433 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_424D724A24DE4889B2DA20912B8554CE }}
           package: .
